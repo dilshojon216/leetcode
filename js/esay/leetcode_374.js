@@ -1,1 +1,0 @@
-var guessNumber = function (n) {};
